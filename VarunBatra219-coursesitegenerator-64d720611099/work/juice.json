@@ -1,0 +1,101 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "undergrad_tas":[
+        {
+            "name":"dog",
+            "email":"dog@gmail.com"
+        },
+        {
+            "name":"n ",
+            "email":"n@gmail.com"
+        },
+        {
+            "name":"varun",
+            "email":"varun@gmail.com"
+        }
+    ],
+    "courses":[
+        {
+            "subject":"CSE",
+            "semester":"Spring",
+            "year":"2017",
+            "number":"219"
+        },
+        {
+            "subject":"CSE",
+            "semester":"Spring",
+            "year":"2017",
+            "number":"219"
+        }
+    ],
+    "recitations":[
+        {
+            "section":"01",
+            "instructor":"Mckduggal",
+            "date":"1",
+            "location":"jargoose",
+            "supervisor1":"varun",
+            "supervisor2":"dog"
+        },
+        {
+            "section":"01",
+            "instructor":"Mckduggal",
+            "date":"1",
+            "location":"jargoose",
+            "supervisor1":"varun",
+            "supervisor2":"dog"
+        }
+    ],
+    "teams":[
+        {
+            "team":"exampleTeam",
+            "color":"blue",
+            "text color":"red",
+            "link":"link"
+        },
+        {
+            "team":"exampleTeam",
+            "color":"blue",
+            "text color":"red",
+            "link":"link"
+        }
+    ],
+    "students":[
+        {
+            "first name":"Varun",
+            "last name":"Batra",
+            "team":"exampleTeam",
+            "role":"Leader"
+        },
+        {
+            "first name":"Varun",
+            "last name":"Batra",
+            "team":"exampleTeam",
+            "role":"Leader"
+        }
+    ],
+    "schedules":[
+        {
+            "type":"holiday",
+            "date":"4/17/15",
+            "time":"4",
+            "title":"Schedule ex",
+            "topic":" Example",
+            "link":"ex",
+            "criteria":"ex"
+        },
+        {
+            "type":"holiday",
+            "date":"4/17/15",
+            "time":"4",
+            "title":"Schedule ex",
+            "topic":" Example",
+            "link":"ex",
+            "criteria":"ex"
+        }
+    ],
+    "officeHours":[
+    ]
+}

@@ -1,0 +1,122 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "undergrad_tas":[
+        {
+            "name":"Arron",
+            "email":"Arron@gmail.com"
+        },
+        {
+            "name":"dog",
+            "email":"dog@gmail.com"
+        },
+        {
+            "name":"n ",
+            "email":"n@gmail.com"
+        },
+        {
+            "name":"varun",
+            "email":"varun@gmail.com"
+        }
+    ],
+    "courses":[
+        {
+            "subject":"CSE",
+            "semester":"Spring",
+            "year":"2017",
+            "number":"219"
+        },
+        {
+            "subject":"CSE",
+            "semester":"Spring",
+            "year":"2017",
+            "number":"219"
+        }
+    ],
+    "recitations":[
+        {
+            "section":"01",
+            "instructor":"Varun",
+            "date":"Monday 3:30 -4",
+            "location":"Javits",
+            "supervisor1":"Arron",
+            "supervisor2":"varun"
+        },
+        {
+            "section":"02",
+            "instructor":"Varun",
+            "date":"Tuesday 4",
+            "location":"Javits",
+            "supervisor1":"Arron",
+            "supervisor2":"varun"
+        },
+        {
+            "section":"03",
+            "instructor":"Varun",
+            "date":"Wednesday 5",
+            "location":"Frey",
+            "supervisor1":"Arron",
+            "supervisor2":"varun"
+        }
+    ],
+    "teams":[
+        {
+            "team":"exampleTeam",
+            "color":"blue",
+            "text color":"red",
+            "link":"link"
+        },
+        {
+            "team":"Gray Goose",
+            "color":"0xb3b3b3ff",
+            "text color":"0x1a1a1aff",
+            "link":"GreyGoose.com"
+        }
+    ],
+    "students":[
+        {
+            "first name":"Varun",
+            "last name":"Batra",
+            "team":"exampleTeam",
+            "role":"Leader"
+        },
+        {
+            "first name":"Varun",
+            "last name":"NotBatra",
+            "team":"Gray Goose",
+            "role":"Leader"
+        }
+    ],
+    "schedules":[
+        {
+            "type":"holiday",
+            "date":"4/17/15",
+            "time":"4",
+            "title":"Schedule ex",
+            "topic":" Example",
+            "link":"ex",
+            "criteria":"ex"
+        },
+        {
+            "type":"holiday",
+            "date":"4/12/17",
+            "time":"9 ",
+            "title":"Break",
+            "topic":"Take a break",
+            "link":"takeaBreak.com",
+            "criteria":"Break time"
+        },
+        {
+            "type":"test",
+            "date":"5/8",
+            "time":"12 AM",
+            "title":"Final project",
+            "topic":"Final Due",
+            "link":"final due.com",
+            "criteria":"final"
+        }
+    ],
+    "officeHours":[
+    ]
+}
